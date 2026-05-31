@@ -1,4 +1,2 @@
 # test-repository
-for testsы
-авпва
-sdfs
+for test
