@@ -1,2 +1,2 @@
 # test-repository
-for testfor test
+for test
